@@ -1,4 +1,4 @@
-# IP Limiter Evasion Mitigator
+# Firewall Evasion Protection
 
 ## Overview
 This script is designed to safeguard your network against users who might change their IP addresses to bypass firewall rules, QoS settings, or bandwidth limiters.
