@@ -40,12 +40,14 @@
 # Specify the MAC addresses you want to monitor. These are the addresses of the
 # devices that you suspect might change their IP to evade firewall rules.
 # List them in a space-separated format.
-MAC_ADDRESSES="AA:AA:AA:AA:AA:AA 11:11:11:11:11:11"
+# Example: MAC_ADDRESSES="01:23:45:ab:cd:ef 67:89:10:fe:dc:ba"
+MAC_ADDRESSES=""
 
 # Firewall Alias Configuration:
 # Specify the name of the firewall alias that you want to update with the IP
 # addresses associated with the above MAC addresses.
-ALIAS_NAME="5MB_Limiter"
+# Example: ALIAS_NAME="5MB_Limiter"
+ALIAS_NAME=""
 
 ################################################################################
 # END OF CONFIGURATION SECTION
